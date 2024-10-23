@@ -1,4 +1,8 @@
-# A Small Blog
+---
+title: A Small Blog
+layout: template
+filename: blog.md
+--- 
 
 ## New Beginnings - 23.10.2024
 
