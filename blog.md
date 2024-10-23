@@ -1,6 +1,5 @@
 ---
 title: A Small Blog
-layout: template
 filename: blog.md
 --- 
 
