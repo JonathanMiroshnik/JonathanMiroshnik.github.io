@@ -1,7 +1,3 @@
----
-title: Jonathan Miroshnik
---- 
-
 # Welcome to my website!
 
 [CV](https://jonathanmiroshnik.github.io/JonathanMiroshnikResume.pdf)
