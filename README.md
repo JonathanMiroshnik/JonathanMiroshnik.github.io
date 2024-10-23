@@ -1,3 +1,8 @@
+---
+title: Jonathan Miroshnik
+filename: README.md
+--- 
+
 # Welcome to my website!
 
 [CV](https://jonathanmiroshnik.github.io/JonathanMiroshnikResume.pdf)
