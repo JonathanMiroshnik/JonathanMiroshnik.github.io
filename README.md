@@ -1,6 +1,5 @@
 ---
 title: Jonathan Miroshnik
-filename: README.md
 --- 
 
 # Welcome to my website!
