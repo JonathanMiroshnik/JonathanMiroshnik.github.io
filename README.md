@@ -1,5 +1,4 @@
-# Jonathan Miroshnik
-## Welcome to my website!
+# Welcome to my website!
 
 [CV](https://jonathanmiroshnik.github.io/JonathanMiroshnikResume.pdf)
 
