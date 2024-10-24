@@ -7,4 +7,4 @@
 
 ## Projects:
 [Walls Beyond Walls](https://vrkings.itch.io/walls-beyond-walls)
-My Hebrew University XR course final project. A VR Unity game which uses Stable Diffusion to create imagery in response to gameplay decisions in real time.
+Our Hebrew University XR course final project. A VR Unity game which uses Stable Diffusion to create imagery in response to gameplay decisions in real time.
